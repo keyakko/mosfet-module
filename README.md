@@ -1,5 +1,5 @@
 # mosfet-module
-Re-purposing a motherboard MOSFET to server as an electrical switch.
+Re-purposing a motherboard MOSFET to serve as an electrical switch.
 
 ![panel](./_readme-assets/panel.png)
 
