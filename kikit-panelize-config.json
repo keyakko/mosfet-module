@@ -1,0 +1,34 @@
+{
+    "layout": {
+        "hspace": "2mm",
+        "vspace": "2mm",
+        "rows": "2",
+        "cols": "6",
+        "hbonecut": "False"
+    },
+    "tabs": {
+        "type": "fixed",
+        "vwidth": "5mm",
+        "hwidth": "10mm",
+        "mindistance": "5mm",
+        "hcount": "2"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "spacing": "0.74mm",
+        "offset": "-0.25mm",
+        "prolong": "1mm"
+    },
+    "framing": {
+        "type": "railslr",
+        "fillet": "5mm"
+    },
+    "copperfill": {
+        "type": "solid",
+        "clearance": "0mm"
+    },
+    "post": {
+        "copperfill": "True",
+        "millradius": "1mm"
+    }
+}
