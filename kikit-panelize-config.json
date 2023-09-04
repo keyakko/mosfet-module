@@ -3,8 +3,7 @@
         "hspace": "2mm",
         "vspace": "2mm",
         "rows": "2",
-        "cols": "6",
-        "hbonecut": "False"
+        "cols": "6"
     },
     "tabs": {
         "type": "fixed",
@@ -20,8 +19,7 @@
         "prolong": "1mm"
     },
     "framing": {
-        "type": "railslr",
-        "fillet": "5mm"
+        "type": "railslr"
     },
     "copperfill": {
         "type": "solid",
@@ -29,6 +27,7 @@
     },
     "post": {
         "copperfill": "True",
-        "millradius": "1mm"
+        "millradius": "1mm",
+        "refillzones": "True"
     }
 }
